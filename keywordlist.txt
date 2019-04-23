@@ -1,1 +1,1 @@
-while,for,gain,control,pub,sub,plan,ros::ok,output,input
+while,for,gain,control,pub,sub,plan,output,input

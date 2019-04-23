@@ -1,10 +1,9 @@
-Directory#,Filename#,Filetype#,while,for,gain,control,pub,sub,plan,out,output,input,Total#
-/home/gui/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/scripts,Navigation.py,py,1,1,0,1,1,1,0,1,1,0,7
-/home/gui/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/scripts,Navigation_map.py,py,1,1,0,1,1,1,0,1,0,0,6
-/home/gui/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/src,turtlebot3_fake.cpp,cpp,1,1,0,0,1,1,0,1,0,0,5
+Directory#,Filename#,Filetype#,while,for,gain,control,pub,sub,plan,output,input,null,Total#
+/home/gui/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/scripts,Navigation.py,py,1,1,0,1,1,1,0,1,0,0,6
 /home/gui/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src,turtlebot3_drive.cpp,cpp,1,1,0,1,1,1,0,0,0,0,5
 /home/gui/catkin_ws/src/turtlebot3/turtlebot3_bringup/src,turtlebot3_diagnostics.cpp,cpp,1,1,0,0,1,1,0,0,0,0,4
-/home/gui/catkin_ws/src/turtlebot3/turtlebot3_slam/src,flat_world_imu_node.cpp,cpp,0,1,0,0,1,1,0,1,0,0,4
+/home/gui/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/src,turtlebot3_fake.cpp,cpp,1,1,0,0,1,1,0,0,0,0,4
+/home/gui/catkin_ws/src/turtlebot3/turtlebot3_slam/src,flat_world_imu_node.cpp,cpp,0,1,0,0,1,1,0,0,0,0,3
 /home/gui/catkin_ws/src/turtlebot3/turtlebot3_teleop,setup.py,py,0,0,0,0,0,0,0,0,0,0,0
 /home/gui/catkin_ws/src/turtlebot3/turtlebot3_teleop/src/turtlebot3_teleop,__init__.py,py,0,0,0,0,0,0,0,0,0,0,0
 /home/gui/catkin_ws/src/turtlebot3/turtlebot3_example,setup.py,py,0,0,0,0,0,0,0,0,0,0,0

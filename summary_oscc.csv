@@ -1,0 +1,11 @@
+Directory#,Filename#,Filetype#,while,for,gain,control,pub,sub,plan,output,input,null,Total#
+/home/gui/Documents/oscc/firmware/steering/src,steering_control.cpp,cpp,0,1,0,1,1,0,0,1,1,0,5
+/home/gui/Documents/oscc/firmware/steering/src,main.cpp,cpp,1,1,0,1,0,0,0,0,0,0,3
+/home/gui/Documents/oscc/firmware/steering/src,communications.cpp,cpp,0,1,0,1,1,0,0,0,0,0,3
+/home/gui/Documents/oscc/firmware/steering/src,init.cpp,cpp,0,1,0,1,1,0,0,0,0,0,3
+/home/gui/Documents/oscc/firmware/steering/tests/features/step_definitions,sending_reports.cpp,cpp,0,0,0,1,1,0,0,0,0,0,2
+/home/gui/Documents/oscc/firmware/steering/tests/features/step_definitions,checking_faults.cpp,cpp,0,1,0,0,0,0,0,0,0,0,1
+/home/gui/Documents/oscc/firmware/steering/tests/features/step_definitions,setup.cpp,cpp,0,0,0,1,0,0,0,0,0,0,1
+/home/gui/Documents/oscc/firmware/steering/tests/features/step_definitions,receiving_messages.cpp,cpp,0,1,0,0,0,0,0,0,0,0,1
+/home/gui/Documents/oscc/firmware/steering/tests/features/step_definitions,test.cpp,cpp,0,0,0,0,0,0,0,0,0,0,0
+/home/gui/Documents/oscc/firmware/steering/src,globals.cpp,cpp,0,0,0,0,0,0,0,0,0,0,0
