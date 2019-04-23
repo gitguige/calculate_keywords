@@ -1,0 +1,17 @@
+Directory#,Filename#,Filetype#,while,for,gain,control,pub,sub,plan,output,input,null,Total#
+/home/gui/Downloads/catkin_ws/src/turtlesimtest/scripts,gotgoal.py,py,1,1,0,1,1,1,0,0,1,0,6
+/home/gui/Downloads/catkin_ws/src/beginner_tutorials/src,talker.cpp,cpp,1,1,0,0,1,1,0,0,0,0,4
+/home/gui/Downloads/catkin_ws/src/turtlesimtest/tutorials,mimic.cpp,cpp,0,0,0,0,1,1,0,1,1,0,4
+/home/gui/Downloads/catkin_ws/src/beginner_tutorials/src,listener.cpp,cpp,0,1,0,0,1,1,0,0,0,0,3
+/home/gui/Downloads/catkin_ws/src/turtlesimtest/src,turtle.cpp,cpp,0,1,0,0,1,1,0,0,0,0,3
+/home/gui/Downloads/catkin_ws/src/turtlesimtest/tutorials,draw_square.cpp,cpp,0,1,0,0,1,1,0,0,0,0,3
+/home/gui/Downloads/catkin_ws/src/beginner_tutorials/scripts,talker.py,py,1,0,0,0,1,0,0,0,0,0,2
+/home/gui/Downloads/catkin_ws/src/turtlesimtest/src,turtle_frame.cpp,cpp,1,1,0,0,0,0,0,0,0,0,2
+/home/gui/Downloads/catkin_ws/src/turtlesimtest/tutorials,teleop_turtle_key.cpp,cpp,0,1,0,0,1,0,0,0,0,0,2
+/home/gui/Downloads/catkin_ws/src/beginner_tutorials/scripts,listener.py,py,0,0,0,0,1,0,0,0,0,0,1
+/home/gui/Downloads/catkin_ws/src/beginner_tutorials/scripts,add_two_ints_client.py,py,0,1,0,0,0,0,0,0,0,0,1
+/home/gui/Downloads/catkin_ws/src/turtlesimtest/src,turtlesim.cpp,cpp,0,0,0,0,1,0,0,0,0,0,1
+/home/gui/Downloads/catkin_ws/src/beginner_tutorials/scripts,add_two_ints_server.py,py,0,0,0,0,0,0,0,0,0,0,0
+/home/gui/Downloads/catkin_ws/src/beginner_tutorials/src,add_two_ints_server.cpp,cpp,0,0,0,0,0,0,0,0,0,0,0
+/home/gui/Downloads/catkin_ws/src/beginner_tutorials/src,add_two_ints_client.cpp,cpp,0,0,0,0,0,0,0,0,0,0,0
+/home/gui/Downloads/catkin_ws/src/turtlesimtest/src/turtlesim,__init__.py,py,0,0,0,0,0,0,0,0,0,0,0
