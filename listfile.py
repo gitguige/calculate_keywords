@@ -49,6 +49,9 @@ def calculate_keywords(pathwork,savefile):
                                         for index in range(leng):
                                                 keyword = line[index]
                                                 if consist[index] == 0 and keyword in fline:
+                                                        if "while" in keyword or "for" in keyword: #while or for structure
+                                                                if ('(' not in fline or ')' not in fline) and (':' not in fline): # not while() /while: /for() /for:
+                                                                        continue
                                                         consist[index] = 1
                                                         total_consist += 1
                                                         # print fileresult + keyword
