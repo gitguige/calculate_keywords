@@ -10,6 +10,11 @@ controlled,2
 controlling,2
 adaptation,2
 stabilization,2
+pid,1,#
+kd,1,
+kp,1,
+ki,1,
+kalman,1,
 plan,2,#
 schedule,2
 mission,2
@@ -27,5 +32,11 @@ angular,1
 momentum,1
 thrust,1
 deceleration,1,#
+jerk,1
+decelerate,1
+stall,1
+downwards,1
 rotate,1,#
 torque,1,#
+glucose,1,#
+insulin,1,#
